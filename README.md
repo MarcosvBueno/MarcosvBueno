@@ -12,7 +12,7 @@
   
 ## 🖥 | Technologies :
   
-[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,aws,firebase,ts,js,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,nodejs,docker,prisma,aws,firebase,ts,js,html,css,git)](https://skillicons.dev)
   
   <br></br>
 ## 📫 | Contact me :
