@@ -1,5 +1,5 @@
 ### Hi there, I'm Marcos 👋
- - I'm a Computer Science (CS) Student 👨‍💻
+ - I'm a Computer Scientist(CS) 👨‍💻
  - I live in Recife, Brazil 📍
  - I'm always open to learn new things 🎯
 
